@@ -1,0 +1,500 @@
+Names: KATHLEEN LONG
+ID: 138
+Hours: 17
+Dependents: 6
+ 
+Names: JERRY NELSON
+ID: 170
+Hours: 41
+Dependents: 6
+ 
+Names: LARRY HERNANDEZ
+ID: 186
+Hours: 37
+Dependents: 6
+ 
+Names: ERIC HILL
+ID: 109
+Hours: 38
+Dependents: 5
+ 
+Names: EDWARD MARTINEZ
+ID: 110
+Hours: 38
+Dependents: 0
+ 
+Names: JAMES SMITH
+ID: 132
+Hours: 5
+Dependents: 1
+ 
+Names: CARL PARKER
+ID: 117
+Hours: 24
+Dependents: 8
+ 
+Names: SUSAN BELL
+ID: 115
+Hours: 29
+Dependents: 0
+ 
+Names: SCOTT LOPEZ
+ID: 138
+Hours: 32
+Dependents: 6
+ 
+Names: VIRGINIA POWELL
+ID: 171
+Hours: 44
+Dependents: 6
+ 
+Names: JENNIFER COOK
+ID: 154
+Hours: 18
+Dependents: 7
+ 
+Names: ROBERT WILLIAMS
+ID: 146
+Hours: 44
+Dependents: 8
+ 
+Names: CAROL PETERSON
+ID: 113
+Hours: 39
+Dependents: 9
+ 
+Names: BRIAN ROBINSON
+ID: 198
+Hours: 21
+Dependents: 0
+ 
+Names: KEVIN LEWIS
+ID: 101
+Hours: 33
+Dependents: 3
+ 
+Names: JOYCE DIAZ
+ID: 151
+Hours: 24
+Dependents: 0
+ 
+Names: REBECCA PERRY
+ID: 148
+Hours: 12
+Dependents: 2
+ 
+Names: DAVID DAVIS
+ID: 157
+Hours: 22
+Dependents: 4
+ 
+Names: ELIZABETH REED
+ID: 142
+Hours: 10
+Dependents: 7
+ 
+Names: LAURA WATSON
+ID: 188
+Hours: 7
+Dependents: 1
+ 
+Names: JESSICA PRICE
+ID: 182
+Hours: 33
+Dependents: 6
+ 
+Names: STEPHEN SCOTT
+ID: 159
+Hours: 26
+Dependents: 0
+ 
+Names: RICHARD MILLER
+ID: 182
+Hours: 8
+Dependents: 9
+ 
+Names: MARY STEWART
+ID: 140
+Hours: 19
+Dependents: 7
+ 
+Names: DIANE HAYES
+ID: 106
+Hours: 11
+Dependents: 4
+ 
+Names: DANIEL THOMAS
+ID: 121
+Hours: 28
+Dependents: 9
+ 
+Names: DEBRA FLORES
+ID: 115
+Hours: 2
+Dependents: 1
+ 
+Names: KIMBERLY KELLY
+ID: 124
+Hours: 32
+Dependents: 1
+ 
+Names: DOROTHY BAILEY
+ID: 173
+Hours: 36
+Dependents: 3
+ 
+Names: MICHAEL JONES
+ID: 122
+Hours: 30
+Dependents: 5
+ 
+Names: LINDA MORRIS
+ID: 175
+Hours: 31
+Dependents: 0
+ 
+Names: JANET BRYANT
+ID: 183
+Hours: 45
+Dependents: 2
+ 
+Names: JOSE YOUNG
+ID: 173
+Hours: 45
+Dependents: 2
+ 
+Names: RONALD CLARK
+ID: 159
+Hours: 33
+Dependents: 0
+ 
+Names: MARK WHITE
+ID: 112
+Hours: 5
+Dependents: 3
+ 
+Names: RAYMOND ADAMS
+ID: 171
+Hours: 25
+Dependents: 7
+ 
+Names: GARY HALL
+ID: 100
+Hours: 18
+Dependents: 2
+ 
+Names: JASON LEE
+ID: 108
+Hours: 42
+Dependents: 4
+ 
+Names: NANCY COOPER
+ID: 159
+Hours: 25
+Dependents: 0
+ 
+Names: JOSEPH MOORE
+ID: 112
+Hours: 33
+Dependents: 6
+ 
+Names: ANGELA BARNES
+ID: 129
+Hours: 39
+Dependents: 5
+ 
+Names: SARAH BROOKS
+ID: 107
+Hours: 7
+Dependents: 6
+ 
+Names: ANTHONY RODRIGUEZ
+ID: 126
+Hours: 24
+Dependents: 8
+ 
+Names: RUTH GRAY
+ID: 198
+Hours: 4
+Dependents: 9
+ 
+Names: FRANK WRIGHT
+ID: 166
+Hours: 29
+Dependents: 1
+ 
+Names: WALTER MITCHELL
+ID: 158
+Hours: 17
+Dependents: 6
+ 
+Names: STEPHANIE BUTLER
+ID: 185
+Hours: 31
+Dependents: 5
+ 
+Names: PAMELA PATTERSON
+ID: 186
+Hours: 2
+Dependents: 7
+ 
+Names: ANDREW GREEN
+ID: 122
+Hours: 7
+Dependents: 9
+ 
+Names: PETER ROBERTS
+ID: 142
+Hours: 37
+Dependents: 8
+ 
+Names: DEBORAH SANDERS
+ID: 108
+Hours: 45
+Dependents: 2
+ 
+Names: CHRISTINE FOSTER
+ID: 166
+Hours: 27
+Dependents: 3
+ 
+Names: ROGER COLLINS
+ID: 151
+Hours: 41
+Dependents: 9
+ 
+Names: DENNIS CARTER
+ID: 196
+Hours: 35
+Dependents: 6
+ 
+Names: SHARON RAMIREZ
+ID: 150
+Hours: 31
+Dependents: 9
+ 
+Names: TIMOTHY ALLEN
+ID: 171
+Hours: 4
+Dependents: 0
+ 
+Names: HENRY CAMPBELL
+ID: 162
+Hours: 1
+Dependents: 3
+ 
+Names: PAUL JACKSON
+ID: 178
+Hours: 17
+Dependents: 2
+ 
+Names: SANDRA WARD
+ID: 102
+Hours: 20
+Dependents: 8
+ 
+Names: BARBARA ROGERS
+ID: 128
+Hours: 2
+Dependents: 2
+ 
+Names: LISA RIVERA
+ID: 101
+Hours: 4
+Dependents: 0
+ 
+Names: JEFFREY KING
+ID: 147
+Hours: 27
+Dependents: 0
+ 
+Names: GEORGE MARTIN
+ID: 191
+Hours: 31
+Dependents: 1
+ 
+Names: CHRISTOPHER ANDERSON
+ID: 142
+Hours: 45
+Dependents: 1
+ 
+Names: MICHELLE JAMES
+ID: 123
+Hours: 30
+Dependents: 3
+ 
+Names: BETTY COX
+ID: 179
+Hours: 2
+Dependents: 5
+ 
+Names: CAROLYN SIMMONS
+ID: 140
+Hours: 44
+Dependents: 8
+ 
+Names: CHARLES WILSON
+ID: 121
+Hours: 7
+Dependents: 1
+ 
+Names: MELISSA ROSS
+ID: 165
+Hours: 31
+Dependents: 5
+ 
+Names: DOUGLAS PHILLIPS
+ID: 102
+Hours: 20
+Dependents: 9
+ 
+Names: JOHN JOHNSON
+ID: 164
+Hours: 2
+Dependents: 1
+ 
+Names: JOSHUA GONZALEZ
+ID: 165
+Hours: 34
+Dependents: 6
+ 
+Names: HELEN HOWARD
+ID: 122
+Hours: 18
+Dependents: 9
+ 
+Names: MARIA MORGAN
+ID: 194
+Hours: 21
+Dependents: 5
+ 
+Names: HAROLD TURNER
+ID: 160
+Hours: 18
+Dependents: 6
+ 
+Names: PATRICIA SANCHEZ
+ID: 175
+Hours: 43
+Dependents: 1
+ 
+Names: ARTHUR EVANS
+ID: 121
+Hours: 28
+Dependents: 2
+ 
+Names: THOMAS TAYLOR
+ID: 114
+Hours: 37
+Dependents: 5
+ 
+Names: DONNA TORRES
+ID: 127
+Hours: 43
+Dependents: 2
+ 
+Names: MARIE GONZALES
+ID: 156
+Hours: 28
+Dependents: 7
+ 
+Names: AMY COLEMAN
+ID: 121
+Hours: 8
+Dependents: 0
+ 
+Names: MARGARET MURPHY
+ID: 164
+Hours: 21
+Dependents: 1
+ 
+Names: BRENDA HENDERSON
+ID: 174
+Hours: 27
+Dependents: 1
+ 
+Names: PATRICK PEREZ
+ID: 116
+Hours: 8
+Dependents: 6
+ 
+Names: DONALD HARRIS
+ID: 146
+Hours: 13
+Dependents: 2
+ 
+Names: GREGORY BAKER
+ID: 177
+Hours: 5
+Dependents: 5
+ 
+Names: WILLIAM BROWN
+ID: 178
+Hours: 27
+Dependents: 7
+ 
+Names: CATHERINE ALEXANDER
+ID: 129
+Hours: 25
+Dependents: 5
+ 
+Names: SHIRLEY BENNETT
+ID: 112
+Hours: 14
+Dependents: 3
+ 
+Names: KAREN RICHARDSON
+ID: 165
+Hours: 10
+Dependents: 9
+ 
+Names: KENNETH THOMPSON
+ID: 141
+Hours: 41
+Dependents: 9
+ 
+Names: STEVEN GARCIA
+ID: 178
+Hours: 19
+Dependents: 7
+ 
+Names: CYNTHIA WOOD
+ID: 131
+Hours: 23
+Dependents: 1
+ 
+Names: ANN GRIFFIN
+ID: 185
+Hours: 20
+Dependents: 0
+ 
+Names: ANNA JENKINS
+ID: 122
+Hours: 11
+Dependents: 4
+ 
+Names: MATTHEW WALKER
+ID: 155
+Hours: 30
+Dependents: 4
+ 
+Names: RYAN EDWARDS
+ID: 111
+Hours: 25
+Dependents: 5
+ 
+Names: FRANCES RUSSELL
+ID: 196
+Hours: 44
+Dependents: 1
+ 
+Names: MARTHA HUGHES
+ID: 166
+Hours: 28
+Dependents: 4
+ 
+Names: AMANDA WASHINGTON
+ID: 103
+Hours: 2
+Dependents: 6
+ 
